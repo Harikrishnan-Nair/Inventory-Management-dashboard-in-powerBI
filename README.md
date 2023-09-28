@@ -16,3 +16,12 @@ In Past Orders sheet-
 3. Order Quantity
 
 The data was first loaded to powerBI and following that other columns were added based on the respective calcualtions and categorisation for the visualization purpose:
+
+
+Key Insights:
+1. 95% of products require to be reordered in order to streamline the inventorial processes
+2. Inventory Turnover Rate(ITR), the metric of how efficiently inventory is functioning has some scope for improvement and this can be achieved carefully stocking the SKUs of Y[Variable demand] and Z[uncertain demand]
+              Inventory Turnover Rate = Cost of Goods sold annually
+                                        ___________________________
+                                       Avg Inventory Value in warehouse
+3. SKUs of A Class and X-Category brings in the highest revenue whereas SKUs of B Class and Y-Category are present in the warehouse(excluded A Class since that is contributing for more revenue).
