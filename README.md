@@ -16,7 +16,7 @@ In Past Orders sheet-
 3. Order Quantity
 
 The data was first loaded to powerBI and following that other columns were added based on the respective calcualtions and categorisation for the visualization purpose:
-
+![Inventory Dashboard Sample page1](https://github.com/Harikrishnan-Nair/Inventory-Management-dashboard-in-powerBI/assets/95662379/fbdfef76-93f6-4839-a920-1b53b7c88916)
 
 Key Insights:
 1. 95% of products require to be reordered in order to streamline the inventorial processes
@@ -25,4 +25,4 @@ Key Insights:
 3. SKUs of A Class and X-Category brings in the highest revenue whereas SKUs of B Class and Y-Category are present in the warehouse(excluded A Class since that is contributing for more revenue).
 
 
-![Inventory Dashboard Sample page1](https://github.com/Harikrishnan-Nair/Inventory-Management-dashboard-in-powerBI/assets/95662379/fbdfef76-93f6-4839-a920-1b53b7c88916)
+
